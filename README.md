@@ -1,4 +1,4 @@
-# # Kmart Sales Performance Dashboard – README
+#  Kmart Sales Performance Dashboard – README
 
 The Kmart Sales Performance Dashboard is a dynamic and interactive business intelligence report built using Power BI. It provides a comprehensive view of Kmart's sales data across various dimensions such as time, location, sales channels, product categories, and key stakeholders. Designed to support data-driven decision-making, the dashboard helps track total sales, average transaction values, top-performing managers, suburbs, and states.
 
