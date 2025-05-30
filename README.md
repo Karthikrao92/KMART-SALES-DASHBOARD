@@ -4,6 +4,7 @@ The Kmart Sales Performance Dashboard is a dynamic and interactive business inte
 
 Visual Highlights:
 •	Sales Over Time: Area chart showing online vs. store sales trends by month
+
 •	Avg Sales Over Time: Line chart to track changes in average sales monthly
 •	Sales by Category: Bar chart to compare performance across product groups
 •	Top Suburbs: Bar chart ranking suburbs by sales
